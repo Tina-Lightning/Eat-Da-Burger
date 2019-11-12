@@ -10,7 +10,7 @@
 
 * Once the burger has been eaten, it can be removed from the list to make way for more burgers
 
-* [Check out this app in action:](https://youtu.be/msvdn95x9OM).
+* [Click here to check out this app in action](https://vast-beach-63783.herokuapp.com/).
 
 ## Technologies Used: 
 
